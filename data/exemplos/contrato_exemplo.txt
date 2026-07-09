@@ -1,0 +1,52 @@
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO
+
+(Documento fictício, gerado exclusivamente para demonstração e testes do Themis.IA.)
+
+CONTRATANTE: FARMÁCIA BOA SAÚDE LTDA., pessoa jurídica de direito privado, inscrita no
+CNPJ sob o nº 00.000.000/0001-00, com sede na Av. das Flores, 1000, Recife/PE.
+
+CONTRATADA: TECHNOVA CONSULTORIA EM TI LTDA., pessoa jurídica de direito privado,
+inscrita no CNPJ sob o nº 11.111.111/0001-11, com sede na Rua do Sol, 250, Recife/PE.
+
+CLÁUSULA PRIMEIRA — DO OBJETO
+1.1. O presente contrato tem por objeto a prestação, pela CONTRATADA, de serviços de
+consultoria em tecnologia da informação, incluindo diagnóstico de infraestrutura,
+implantação de sistema de gestão e treinamento de equipe.
+
+CLÁUSULA SEGUNDA — DO VALOR E DA FORMA DE PAGAMENTO
+2.1. Pelos serviços descritos na Cláusula Primeira, a CONTRATANTE pagará à CONTRATADA
+a remuneração mensal de R$ 12.000,00 (doze mil reais).
+2.2. O pagamento será efetuado até o 5º (quinto) dia útil de cada mês, mediante
+depósito em conta bancária indicada pela CONTRATADA.
+2.3. O atraso no pagamento sujeitará a CONTRATANTE a multa de 2% (dois por cento)
+sobre o valor devido, acrescida de juros de mora de 1% (um por cento) ao mês.
+
+CLÁUSULA TERCEIRA — DA VIGÊNCIA
+3.1. O presente contrato vigorará pelo prazo de 12 (doze) meses, com início em
+01/03/2026, podendo ser renovado por igual período mediante termo aditivo.
+
+CLÁUSULA QUARTA — DA RESCISÃO
+4.1. Qualquer das partes poderá rescindir o presente contrato, imotivadamente,
+mediante aviso prévio por escrito de 30 (trinta) dias.
+4.2. Em caso de rescisão imotivada pela CONTRATANTE antes de 6 (seis) meses de
+vigência, será devida à CONTRATADA indenização equivalente a 1 (uma) mensalidade.
+
+CLÁUSULA QUINTA — DA CONFIDENCIALIDADE
+5.1. As partes obrigam-se a manter sigilo sobre todas as informações confidenciais a
+que tiverem acesso em razão deste contrato, pelo prazo de 5 (cinco) anos contados do
+seu encerramento.
+
+CLÁUSULA SEXTA — DA PROTEÇÃO DE DADOS (LGPD)
+6.1. As partes comprometem-se a observar a Lei nº 13.709/2018 (Lei Geral de Proteção
+de Dados Pessoais) no tratamento de dados pessoais decorrente da execução deste
+contrato, limitando o tratamento às finalidades contratuais.
+
+CLÁUSULA SÉTIMA — DO FORO
+7.1. Fica eleito o foro da Comarca de Recife, Estado de Pernambuco, para dirimir
+quaisquer controvérsias oriundas do presente contrato, com renúncia expressa a
+qualquer outro, por mais privilegiado que seja.
+
+E, por estarem justas e contratadas, as partes assinam o presente instrumento em duas
+vias de igual teor e forma, na presença de duas testemunhas.
+
+Recife, 15 de fevereiro de 2026.

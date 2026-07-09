@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "question": "Qual é o valor mensal da remuneração prevista no contrato de consultoria em TI?",
+    "reference": "R$ 12.000,00 (doze mil reais) por mês, conforme a Cláusula Segunda do contrato."
+  },
+  {
+    "id": 2,
+    "question": "Qual a multa e os juros aplicáveis em caso de atraso no pagamento do contrato?",
+    "reference": "Multa de 2% sobre o valor devido e juros de mora de 1% ao mês (Cláusula 2.3)."
+  },
+  {
+    "id": 3,
+    "question": "Qual é o prazo de vigência do contrato e quando ele começa?",
+    "reference": "12 meses, com início em 01/03/2026, renovável por igual período (Cláusula Terceira)."
+  },
+  {
+    "id": 4,
+    "question": "Qual o foro eleito pelas partes no contrato?",
+    "reference": "Foro da Comarca de Recife, Estado de Pernambuco (Cláusula Sétima)."
+  },
+  {
+    "id": 5,
+    "question": "Por quanto tempo vale a obrigação de confidencialidade após o fim do contrato?",
+    "reference": "5 (cinco) anos contados do encerramento do contrato (Cláusula Quinta)."
+  },
+  {
+    "id": 6,
+    "question": "O que a sentença decidiu na ação de cobrança entre Technova e Farmácia Boa Saúde?",
+    "reference": "Julgou procedente o pedido e condenou a ré ao pagamento de R$ 36.000,00, com multa de 2%, correção pelo IPCA-E e juros de 1% ao mês, além de honorários de 10%."
+  },
+  {
+    "id": 7,
+    "question": "Quais mensalidades estavam inadimplidas segundo a ação de cobrança?",
+    "reference": "As mensalidades de setembro, outubro e novembro de 2026."
+  },
+  {
+    "id": 8,
+    "question": "Em quanto foram fixados os honorários advocatícios na sentença e com que fundamento?",
+    "reference": "10% sobre o valor da condenação, com fundamento no art. 85, § 2º, do CPC."
+  }
+]

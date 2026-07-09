@@ -1,0 +1,24 @@
+# Ambiente
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Artefatos de execução
+chroma_db/
+data/analytics/
+eval/results_*.json
+
+# Streamlit
+.streamlit/secrets.toml
+
+# SO / IDE
+.DS_Store
+.vscode/
+.idea/

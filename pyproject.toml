@@ -1,0 +1,13 @@
+[project]
+name = "themis-ia"
+version = "1.0.0"
+description = "Themis.IA — copiloto jurídico baseado em RAG, personas e busca LexML"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q"
+markers = [
+    "slow: testes que baixam o modelo de embeddings ou acessam a rede",
+]

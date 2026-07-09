@@ -1,0 +1,25 @@
+# Dependências diretas do Themis.IA (versões fixadas — Python 3.10+).
+# Para o freeze completo do ambiente de referência, veja requirements.lock.
+#
+# Dica (Linux/CPU): instale o PyTorch CPU antes, para evitar os pacotes CUDA (~2 GB):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+streamlit==1.59.1
+langchain-core==1.4.9
+langchain-google-genai==4.2.7
+langchain-chroma==1.1.0
+langchain-huggingface==1.2.2
+langchain-text-splitters==1.1.2
+chromadb==1.5.9
+sentence-transformers==5.6.0
+pymupdf==1.28.0
+python-docx==1.2.0
+python-dotenv==1.2.2
+requests==2.34.2
+pandas==3.0.3
+altair==6.2.2
+pytest==9.1.1
+
+# OCR opcional (habilite OCR_ENABLED=true no .env; requer tesseract-ocr + tesseract-ocr-por no sistema):
+# pytesseract==0.3.13
+# pillow>=10
